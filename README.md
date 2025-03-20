@@ -1,9 +1,20 @@
-<h1 align="center">Hi there, I'm Dmitry</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Monitoring Systems Engineer, IT student majoring in Software Engineering</h3>
-<h3 align="center">About me:</h3>
-<h3 align="left">I am studying Software Engineering while simultaneously working and exploring new things. Throughout my professional journey, I have had the opportunity to work with the following tech stack:</h3>
-<h3 align="center">Administration Experience</h3>
+<h1 align="center">
+  Hi there, I'm Dmitry
+</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">
+  Monitoring Systems Engineer, IT student majoring in Software Engineering from Russia
+</h3>
+<h3 align="center">
+  About me:
+</h3>
+<h3 align="left">
+  I am studying Software Engineering while simultaneously working and exploring new things. Throughout my professional journey, I have had the opportunity to work with the following tech stack:
+</h3>
+<h3 align="center">
+  Administration Experience
+</h3>
 <table align="center">
   <tr>
     <th>
@@ -207,7 +218,7 @@
       </a>
     </td>
     <td>
-      Version control
+      Used for version control and collaboration in software development projects
     </td>
   </tr>
 </table>
@@ -255,5 +266,21 @@
     </td>
   </tr>
 </table>
+<h3 align="center">Hobbies & Interests</h3>
+<ul align="left">
+  <li>🎮 Gaming: I enjoy exploring a wide range of game genres, from immersive single-player adventures to fast-paced online multiplayer battles.</li>
+  <li>📚 Reading: I love diving into all kinds of literature, whether it's deep psychological insights from renowned authors or random fanfiction discovered online.</li>
+  <li>🎸 Music: My playlist has it all—tearful ballads about lost love, intense metal for headbanging, and chill electronic beats to relax.</li>
+  <li>🦊 Fun Fact: My spirit animal is the fennec fox—small ears, big dreams, and a love for night adventures!</li>
+</ul>
+<h3 align="center">My Projects</h3>
+<p align="left">
+  Below you can check out some of the works I've done. Not sure why you'd need this, but here you go! :D
 
+</p>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmi2y4ox&repo=vmvare_cloud_collect_inform)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmi2y4ox&repo=check_control_sum)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmi2y4ox&repo=victorialogs_ansible_playbook)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmi2y4ox&repo=victoriametrics_ansible_playbook)](https://github.com/anuraghazra/github-readme-stats)
 
